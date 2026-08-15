@@ -1,5 +1,9 @@
 # Drive de Disquete Hi-MD SATA
 
+
+<img width="1749" height="955" alt="Captura de tela de 2026-08-14 02-33-22" src="https://github.com/user-attachments/assets/9d62f8ea-1522-4f01-aa1c-c2866247f87c" />
+
+
 Este repositório documenta o projeto para a criação de um "Drive de Disquete Hi-MD SATA", uma central multimídia baseada em MS-DOS que utiliza mídia Hi-MD, executada em hardware de PC antigo com suporte a SATA e reprodução headless (sem monitor/teclado) com integração a um display LCD frontal.
 
 ## 1. O "Drive de Disquete Hi-MD SATA"
