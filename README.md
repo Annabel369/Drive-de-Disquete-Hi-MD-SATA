@@ -16,6 +16,8 @@ Como o drive mecânico original da Sony conversa exclusivamente via USB/ATAPI pr
 
 ## 2. A Central Multimídia DOS (Hardware & Boot)
 
+https://drive.google.com/file/d/1Jm0dEdqjywIgEgmnEKEcz_yJKzEWrn5k/view?usp=sharing
+
 <img width="1376" height="768" alt="Storyboard_grid_for_product_prop…_202608141812" src="https://github.com/user-attachments/assets/35350d26-5e15-4145-9ee9-09395937a33d" />
 
 
