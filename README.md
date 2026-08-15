@@ -85,6 +85,9 @@ Para conectar um display LCD alfanumérico padrão HD44780 (16x2 ou 20x4) direta
 
 **Tabela de Pinagem e Soldagem (DB25 para HD44780)**
 
+<img width="312" height="320" alt="serialmsdos" src="https://github.com/user-attachments/assets/78b12625-cffb-4956-8dae-de2ea4f83318" />
+
+
 | Pino LCD HD44780 | Nome do Pino | Função | Conectar em (Origem) |
 | :--- | :--- | :--- | :--- |
 | 1 | VSS | Ground (0V) | GND da Fonte (Fio Preto) / Pino 18 do DB25 |
