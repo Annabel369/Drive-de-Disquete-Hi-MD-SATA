@@ -31,6 +31,9 @@ Para dar boot em DOS via conexão SATA mantendo suporte a teclado, mouse e saíd
 
 Para que o PC ligue, toque as músicas automaticamente e mostre as informações no painel frontal (como o ONKYO MD-133) sem precisar de monitor ou teclado conectados:
 
+<img width="960" height="1101" alt="Gemini_Generated_Image_gtxrzhgtxrzhgtxr" src="https://github.com/user-attachments/assets/e4bd92b7-62b8-487a-bfc3-2be599907215" />
+
+
 ### Reprodutor de Áudio (MPXPLAY)
 O MPXPLAY é a escolha ideal para DOS. Ele suporta MP3, WAV, FLAC, navegação por diretórios e possui suporte a telas LCD seriais/paralelas.
 Configure o arquivo `AUTOEXEC.BAT` do DOS para iniciar o MPXPLAY em modo automático apontando para a pasta de músicas da mídia Hi-MD:
