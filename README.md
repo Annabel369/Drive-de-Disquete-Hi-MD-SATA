@@ -18,6 +18,57 @@ Como o drive mecânico original da Sony conversa exclusivamente via USB/ATAPI pr
 
 https://drive.google.com/file/d/1Jm0dEdqjywIgEgmnEKEcz_yJKzEWrn5k/view?usp=sharing
 
+### 1. Gravador de Imagem de Disco (GNOME Disks) - Mais fácil no Linux
+
+  Como você está usando Linux, é muito provável que você já tenha esse
+  programa instalado (padrão no Ubuntu, Mint e outras distribuições).
+
+  • Por que recomendo: É nativo, seguro e não precisa instalar nada.
+  • Como usar: Basta abrir o seu gerenciador de arquivos, clicar com o
+  botão direito do mouse no arquivo himd_dos.img, escolher "Abrir com
+  Gravador de Imagem de Disco" (ou Disk Image Writer), selecionar o seu
+  drive Hi-MD na lista e clicar em Restaurar/Gravar.
+
+  ### 2. Balena Etcher - A melhor opção visual
+
+  Se você preferir um programa dedicado com uma interface muito bonita e à
+  prova de erros.
+
+  • Por que recomendo: Ele esconde os HDs principais do seu sistema para
+  evitar que você grave no lugar errado por acidente. É excelente para
+  pendrives, cartões SD e adaptadores USB/SATA.
+  • Como usar: Você baixa no site oficial (tem para Linux, Windows e Mac),
+  seleciona o arquivo himd_dos.img, seleciona o drive Hi-MD e clica em
+  "Flash!".
+
+  ### 3. Comando dd - Para os fortes no Terminal
+
+  Se você quiser gravar direto pelo terminal Linux sem instalar nada.
+
+  • Por que recomendo: É a ferramenta mais pura e direta que existe no
+  Linux.
+  • Como usar:
+  Primeiro, descubra a letra do seu drive Hi-MD rodando lsblk (digamos que
+  seja /dev/sdb ou /dev/sdc).
+  Depois, rode o comando:
+  sudo dd if=/home/astral/ama/himd_dos.img of=/dev/sdX bs=4M
+  status=progress
+  (Cuidado: troque o sdX pela letra correta do drive Hi-MD. Se colocar o HD
+  errado, ele apaga seu sistema!)
+
+  ### 4. Rufus - Se for fazer pelo Windows
+
+  Caso você decida plugar o disco em um PC com Windows.
+
+  • Por que recomendo: É leve, não precisa instalar (versão portátil) e
+  grava imagens RAW perfeitamente.
+
+  Minha sugestão final: Tente primeiro a opção 1 (GNOME Disks) clicando com
+  o botão direito no arquivo. Se não tiver no seu sistema, baixe o Balena
+  Etcher. São as formas mais seguras de garantir que você não vai apagar o
+  HD do seu computador sem querer!
+
+
 <img width="1376" height="768" alt="Storyboard_grid_for_product_prop…_202608141812" src="https://github.com/user-attachments/assets/35350d26-5e15-4145-9ee9-09395937a33d" />
 
 
