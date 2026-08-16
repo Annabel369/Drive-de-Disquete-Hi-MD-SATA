@@ -153,6 +153,11 @@ Para conectar um display LCD alfanumérico padrão HD44780 (16x2 ou 20x4) direta
 exemple: https://www.bristolwatch.com/pport2/hd44780.htm
 
 
+**How does a USB keyboard work?**
+
+https://www.youtube.com/watch?v=wdgULBpRoXk
+
+
 | Pino LCD HD44780 | Nome do Pino | Função | Conectar em (Origem) |
 | :--- | :--- | :--- | :--- |
 | 1 | VSS | Ground (0V) | GND da Fonte (Fio Preto) / Pino 18 do DB25 |
