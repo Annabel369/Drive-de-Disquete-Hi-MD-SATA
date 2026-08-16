@@ -152,6 +152,10 @@ Para conectar um display LCD alfanumérico padrão HD44780 (16x2 ou 20x4) direta
 
 exemple: https://www.bristolwatch.com/pport2/hd44780.htm
 
+**Program Basic Assemble**
+
+https://www.youtube.com/watch?v=gOwi2p1pzVM
+
 
 **How does a USB keyboard work? Thanks Ben Eater & BOSCH project Help**
 
