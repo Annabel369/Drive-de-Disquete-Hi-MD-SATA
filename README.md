@@ -158,6 +158,10 @@ exemple: https://www.bristolwatch.com/pport2/hd44780.htm
 https://www.youtube.com/watch?v=wdgULBpRoXk
 
 
+**SPI: The serial peripheral interface**
+https://www.youtube.com/watch?v=MCi7dCBhVpQ
+
+
 | Pino LCD HD44780 | Nome do Pino | Função | Conectar em (Origem) |
 | :--- | :--- | :--- | :--- |
 | 1 | VSS | Ground (0V) | GND da Fonte (Fio Preto) / Pino 18 do DB25 |
